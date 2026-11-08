@@ -1,0 +1,24 @@
+# Local build and IDE state
+/.gradle/
+/.kotlin/
+/local.properties
+**/build/
+.idea/
+.vscode/
+*.iml
+
+# Generated distribution files and test output
+/dist/
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Credentials and signing material
+/api.txt
+.env
+.env.*
+!.env.example
+*.jks
+*.keystore
+*.p12
+key.properties
