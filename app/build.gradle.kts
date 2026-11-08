@@ -40,7 +40,7 @@ dependencies {
     runtimeOnly("org.libtorrent4j:libtorrent4j-android-arm:2.1.0-39")
     runtimeOnly("org.libtorrent4j:libtorrent4j-android-x86_64:2.1.0-39")
     implementation("org.nanohttpd:nanohttpd:2.3.1")
-    implementation("com.google.zxing:core:3.5.3")
+    implementation("com.google.zxing:core:3.5.4")
 
     testImplementation("junit:junit:4.13.2")
     androidTestImplementation("androidx.test:runner:1.7.0")
