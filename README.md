@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/assets/logo.svg" alt="Torrent TV app logo" width="320" height="180">
+</p>
+
 # Torrent TV
 
 An Android TV torrent player controlled from a phone or laptop on the same local network.
